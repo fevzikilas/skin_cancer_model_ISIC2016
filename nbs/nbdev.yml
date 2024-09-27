@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "skin_cancer_model_ISIC2016"
+  title: "Fevzi KILAS (niexche)"
   site-url: "https://fevzikilas.github.io/skin_cancer_model_ISIC2016"
   description: ""
   repo-branch: main
